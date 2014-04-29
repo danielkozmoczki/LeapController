@@ -1,0 +1,10 @@
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\bin\Debug\MouseForm.exe.config
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\bin\Debug\MouseForm.exe
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\bin\Debug\MouseForm.pdb
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\obj\Debug\MouseForm.csprojResolveAssemblyReference.cache
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\obj\Debug\MouseForm.Properties.Resources.resources
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\obj\Debug\MouseForm.csproj.GenerateResource.Cache
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\obj\Debug\MouseForm.exe
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\obj\Debug\MouseForm.pdb
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\bin\Debug\LeapCSharp.NET4.0.dll
+F:\BME\Onlab\Mouse\MouseForm\MouseForm\obj\Debug\MouseForm.LeapCursorControl.resources

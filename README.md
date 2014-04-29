@@ -1,6 +1,6 @@
-LEAPWindowsControl
+LEAP Windows Control
 ==================
-This project was made for Steam's Big Picture mode, but it works just as well in Windows
+This project was originally made for Steam's Big Picture mode, but it works just as well in Windows.
 
 Features:
 
